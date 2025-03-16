@@ -1,8 +1,9 @@
 # 🐱🐶 Cat-Dog Classification Web App
 
-This is a simple web application that classifies images as either **Cat** or **Dog** using a trained **TensorFlow deep learning model**. The app is built with **Streamlit**, making it easy to deploy and run in your browser.
+This simple web application classifies images as either **Cat** or **Dog** using a trained **TensorFlow deep learning model**. The app is built with **Streamlit**, making it easy to deploy and run in your browser.
 
-This is the Google Drive link that includes training code, dataset and model.
+This is the Google Drive link that includes the training code, dataset and model. 
+https://drive.google.com/drive/u/2/folders/1HIyZGh0UlvYzRlTVp9uKi4sRmLkSMQGy
 
 ---
 
