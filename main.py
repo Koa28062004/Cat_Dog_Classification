@@ -6,7 +6,7 @@ import numpy as np
 # Load model
 model = tf.keras.models.load_model("cat_dog_model.h5")
 
-st.title("🐶🐱 Cat vs Dog Classifier")
+st.title("Cat vs Dog Classifier")
 
 uploaded_file = st.file_uploader("Upload an image", type=["jpg", "jpeg", "png"])
 
